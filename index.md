@@ -7,4 +7,8 @@
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
+``` javascript
+var myVar = "Adding Code snippet to index.md file";
+```
+
 I've made these changes that represent the 6 different headers
