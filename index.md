@@ -11,4 +11,7 @@
 var myVar = "Adding Code snippet to index.md file";
 ```
 
-I've made these changes that represent the 6 different headers
+#### Task List:
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
